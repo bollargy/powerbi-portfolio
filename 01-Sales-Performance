@@ -1,7 +1,7 @@
 # Sales Performance Dashboard (Power BI)
 
 ## Overview
-This project presents an end-to-end Sales Performance Dashboard built in Power BI to analyse revenue, profit, and sales trends, and to identify key performance drivers.
+This project presents an end-to-end Sales Performance Dashboard built in Power BI to analyse revenue, profit, and sales trends, and to identify key performance drivers that support business decision-making.
 
 ## Tools Used
 - Power BI Desktop
@@ -10,18 +10,22 @@ This project presents an end-to-end Sales Performance Dashboard built in Power B
 - Excel
 
 ## Dataset
-Publicly generated sales dataset with customer, product, regional, and time-based information. No personal or confidential data was used.
+Advance_Sales_Data.xlsx — publicly generated sales dataset containing customer, product, regional, and time-based information. No personal or confidential data was used.
 
 ## Key Features
-- KPI reporting (Sales, Profit, Quantity, Average Order Value)
-- Sales and profit trends over time
+- KPI reporting (Total Sales, Total Profit, Total Quantity, Average Order Value)
+- Sales, profit, and quantity trends over time
 - Category and product performance analysis
 - Interactive slicers for region, segment, and year
 
 ## Key Insights
-- Technology is the highest-performing category by sales
-- Sales fluctuate over time with stronger performance in later periods
-- A small number of products contribute a large share of total revenue
+- Technology is the highest-performing category by total sales
+- Sales and profit fluctuate over time, with stronger performance in later periods
+- A small number of products contribute a large share of overall revenue
 
 ## Screenshots
-See screenshots folder.
+
+![Dashboard Overview](screenshots/Dashboard overview.png)
+![Sales Trend](screenshots/SALES TREND.png)
+![Profit Trend](screenshots/PROFIT TREND.png)
+![Quantity Trend](screenshots/QUANTTITY TREND.png)
